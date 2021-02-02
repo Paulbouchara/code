@@ -1,4 +1,4 @@
-public class Exo5 {
+public class enfer {
   public static int[] modif(int[] tab1, int[] tab2) {
     tab1 = tab2;
     return tab1;
